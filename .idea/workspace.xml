@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44571f87-8860-43c8-aa83-14c54e8cb235" name="Default Changelist" comment="Commit - V-0.0.1">
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="main" />
+    <option name="OPTIONS">
+      <set>
+        <option value="NO_FF" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Abishek Khanal &lt;abishekkhanal2056@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qCFLnUfUSYjI0u3NXy2zgDEsZY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\task-management-system\js" />
+      <recent name="C:\xampp\htdocs\task-management-system\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\task-management-system" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44571f87-8860-43c8-aa83-14c54e8cb235" name="Default Changelist" comment="" />
+      <created>1616575614389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616575614389</updated>
+      <workItem from="1616575615823" duration="735000" />
+      <workItem from="1616576718707" duration="838000" />
+      <workItem from="1616578392725" duration="19000" />
+      <workItem from="1616645673664" duration="518000" />
+      <workItem from="1616685419262" duration="179000" />
+      <workItem from="1616728031070" duration="3601000" />
+      <workItem from="1616733739557" duration="965000" />
+      <workItem from="1616767795601" duration="11000" />
+      <workItem from="1617022037351" duration="1095000" />
+      <workItem from="1617092802883" duration="1270000" />
+      <workItem from="1617096226074" duration="452000" />
+      <workItem from="1617096696143" duration="213000" />
+      <workItem from="1617096920369" duration="1223000" />
+      <workItem from="1617110462709" duration="785000" />
+    </task>
+    <task id="LOCAL-00001" summary="init - structure">
+      <created>1616575839922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616575839922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init - structure">
+      <created>1616576850822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616576850822</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init - V-0.0.1- user create and read operation">
+      <created>1617096326559</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617096326559</updated>
+    </task>
+    <task id="LOCAL-00004" summary="V-0.0.1 users: create,read">
+      <created>1617096745639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617096745640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit - V-0.0.1">
+      <created>1617097524291</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617097524291</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init - structure" />
+    <MESSAGE value="init - structure updated dropdown" />
+    <MESSAGE value="init - V-0.0.1- user create and read operation" />
+    <MESSAGE value="V-0.0.1 users: create,read" />
+    <MESSAGE value="init - V-0.0.1- user create and read operations" />
+    <MESSAGE value="Commit - V-0.0.0" />
+    <MESSAGE value="Commit - V-0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - V-0.0.1" />
+  </component>
+</project>

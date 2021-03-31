@@ -1,0 +1,166 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  grid-template-rows: 50px 1fr 50px;
+  grid-template-areas:
+    "sidenav header"
+    "sidenav main"
+    "sidenav footer";
+  height: 100vh;
+}
+
+/* Give every child element its grid name */
+.header {
+  grid-area: header;
+  background-color: #648ca6;
+}
+
+.sidenav {
+  grid-area: sidenav;
+  background-color: #394263;
+}
+
+.main {
+  grid-area: main;
+  background-color: #dfe7e7;
+}
+
+.footer {
+  grid-area: footer;
+  background-color: #648ca6;
+}
+.header,
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  background-color: #648ca6;
+}
+
+.sidenav {
+  display: flex;
+  flex-direction: column;
+  grid-area: sidenav;
+  background-color: #394263;
+}
+
+.sidenav-list {
+  padding: 0;
+  /* margin-top: 85px; */
+  list-style-type: none;
+}
+
+.sidenav-list-item {
+  padding: 20px 20px 20px 40px;
+}
+
+.sidenav-list-item a {
+  text-decoration: none;
+  color: #ddd;
+}
+
+.sidenav-list-item:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+}
+
+#user-dropdown {
+  display: none;
+}
+
+.ti-angle-right {
+  margin-left: 25px;
+  font-size: 12px;
+  color: #aab0c5;
+  font-weight: bolder;
+}
+
+.sidenav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0rem 1rem;
+}
+
+.brand {
+  color: #ddd;
+  font-size: 23px;
+}
+
+.ti-menu {
+  display: flex;
+  border-radius: 50%;
+  /* z-index: 1; */
+  cursor: pointer;
+  padding: 6px;
+  background-color: #DADAE3;
+}
+
+
+.header__search input {
+  border: 0;
+  outline: 0;
+  padding: 10px;
+  border-radius: 3px;
+  background-color: transparent;
+}
+::placeholder {
+  color: rgba(231, 223, 223, 0.596);
+}
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 20px;
+  height: 150px;
+  background-color: #e3e4e6;
+  color: slategray;
+}
+
+.main-overview {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(265px, 1fr));
+  grid-auto-rows: 94px;
+  grid-gap: 20px;
+  margin: 20px;
+}
+.header__avatar{
+    display: flex;
+    align-items: center;
+}
+.header__avatar span,
+.header__avatar div{
+    margin-left: 1rem;
+}
+.header__avatar div{
+    height: 25px;
+    width: 25px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.pngio.com%2Fuser-staff-person-man-profile-boss-circle-svg-png-icon-free-person-icon-png-980_980.png&f=1&nofb=1);
+    border-radius: 50%;
+}
+
+
+@media only screen and (min-width: 46.875em) {
+  .grid-container {
+    grid-template-columns: 240px 1fr;
+    grid-template-areas:
+      "sidenav header"
+      "sidenav main"
+      "sidenav footer";
+  }
+
+  .sidenav {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media only screen and (min-width: 65.625em) {
+  .main-cards {
+    column-count: 2;
+  }
+}
